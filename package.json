@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "fstream": "~0.1.21",
-    "pullstream": "~0.4.0",
+    "pullstream": "git://github.com/modelo/node-pullstream.git",
     "binary": "~0.3.0",
     "readable-stream": "~1.0.0",
     "setimmediate": "~1.0.1",
